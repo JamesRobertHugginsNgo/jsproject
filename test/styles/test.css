@@ -1,0 +1,18 @@
+html {
+  background-color: #dddddd;
+  color: #000000;
+  overflow: auto;
+}
+
+html body {
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 100%;
+  line-height: 1.5;
+  max-width: 768px;
+  margin: 1rem auto;
+  overflow: hidden;
+  padding: 0 1rem;
+}
