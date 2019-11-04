@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/JamesRobertHugginsNgo/jsproject#readme",
   "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
     "eslint": "^6.6.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.6.0"
   }
 }
