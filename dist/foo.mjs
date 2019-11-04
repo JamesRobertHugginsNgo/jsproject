@@ -2,4 +2,4 @@ const foo = () => {
   console.log('FOO');
 };
 
-foo();
+export { foo };

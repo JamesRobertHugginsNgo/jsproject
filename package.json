@@ -25,7 +25,6 @@
     "del": "^5.1.0",
     "eslint": "^6.6.0",
     "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0",
     "gulp-eslint": "^6.0.0"
   },
   "dependencies": {
