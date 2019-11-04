@@ -55,7 +55,9 @@ function scaffoldMain() {
     '.gitignore',
     'babel.config.js',
     'gulpfile.js',
+    'src/**/.*',
     'src/**/*',
+    'test/**/.*',
     'test/**/*',
     'webpack.config.js'
   ], { base: '.' })
