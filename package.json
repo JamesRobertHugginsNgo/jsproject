@@ -2,11 +2,11 @@
   "name": "jsproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "gulp": "gulp",
-    "webpack": "webpack"
+    "webpack": "webpack",
+    "scaffold": "gulp scaffold --app newapp"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
     "eslint": "^6.6.0",
     "gulp": "^4.0.2",
     "gulp-eslint": "^6.0.0",
+    "gulp-file": "^0.4.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
   },
