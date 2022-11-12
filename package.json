@@ -30,7 +30,7 @@
     "gulp-eslint": "^6.0.0",
     "gulp-file": "^0.4.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "@babel/polyfill": "^7.6.0"
